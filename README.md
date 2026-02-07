@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — ML Model Comparison
+# Credit Card Fraud Detection - ML Model Comparison
 
 A comparative analysis of **Traditional ML**, **Ensemble methods**, and **Deep Learning** for credit card fraud detection on highly imbalanced financial data.
 
@@ -15,4 +15,4 @@ A comparative analysis of **Traditional ML**, **Ensemble methods**, and **Deep L
 Ensemble methods (Random Forest, XGBoost) decisively outperformed both traditional ML and deep learning on this dataset.
 
 ## Author
-Harish Gupta — MS in Artificial Intelligence, UT Austin
+Harish Gupta - MS in Artificial Intelligence, UT Austin
